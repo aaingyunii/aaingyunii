@@ -1,6 +1,6 @@
 ### 🤞 Hi there 👋
 <p>
-  <a href="https://aaingyunii.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://aaingyunii.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-D3D3D3?&style=flat-square&logo=Blog&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/InKunAn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:dlsrbs98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dlsrbs98@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
