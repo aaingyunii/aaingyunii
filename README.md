@@ -1,8 +1,7 @@
 ### 🤞 Hi there 👋
 <p>
-  <a href="https://aaingyunii.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-D3D3D3?&style=flat-square&logo=Blog&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/InKunAn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:dlsrbs98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dlsrbs98@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://aaingyunii.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?&style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="mailto:dlsrbs98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=black"/></a>
 </p>
 
 <p>
@@ -11,10 +10,13 @@
 
 
 ### 💪 Skills
-#### Platforms & Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+#### Platforms & Languages I willing to master
+<p align="left">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
+  </p>
+
+<p align="left">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </p>
