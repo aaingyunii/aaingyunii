@@ -1,7 +1,7 @@
 ### 🤞 Hi there 👋
 <p>
-  <a href="https://velog.io/@dlsrbs98" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?&style=flat-square&logo=velog&logoColor=white"/></a>
-  <a href="mailto:dlsrbs98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=black"/></a>
+  <a href="https://velog.io/@dlsrbs98"><img src="https://img.shields.io/badge/Blog-000000?&style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="mailto:dlsrbs98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=black"/></a>
 </p>
 
 <p>
